@@ -1,3 +1,3 @@
 print("hola mundo")
-print("adios")
+print("hasta pronto")
 print("ultimo")
